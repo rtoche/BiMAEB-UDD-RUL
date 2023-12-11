@@ -1,0 +1,12 @@
+# Ignore the following files
+.DS_Store
+.idea/
+.ipynb_checkpoints
+*.csv
+*__pycache__
+
+# Ignore everthing inside Jupyter_Notebooks. Must explictly commit notebooks for meaninful changes
+execute_dataset_creation.sh
+default_metrics_dir
+*.sh
+*.json
